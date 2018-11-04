@@ -60,45 +60,45 @@ ___
 ___
 > - 메인 화면
 > 
->  ![image1](https://gitlab.com/areng/sms-with-comty/blob/master/image/init.PNG)
+>  ![image1](image/init.PNG)
 
 > - 로그인 / 회원가입
 >>   - 회원 가입을 하기 위해서는 개인 인증용으로 사전에 부여받은 key code 값이 필하다. key code 값을 이용하여 국방망 사용자 리스트와 인터넷 사용자 리스트를 매칭시킨다. 
 > 
->  ![image2](https://gitlab.com/areng/sms-with-comty/blob/master/image/login.PNG)
->  ![image3](https://gitlab.com/areng/sms-with-comty/blob/master/image/signin.PNG)
+>  ![image2](image/login.PNG)
+>  ![image3](image/signin.PNG)
 
 > - 출타 보고 / 관리
 >>   - 사용자 계정 유형에 따라 출타 탭을 눌렀을때 뜨는 화면이 달라진다. 병사가 사용했을 때 좌측 화면이, 관리자가 사용할 때는 우측 화면이 나타난다. 
 >>   - **병사용**(좌측) 출타 기간과 복귀 예정시간을 설정할 수 있다. 설정한 날짜와 시간은 서버로 전송된다. 현재까지 나간 출타 일수와 출타 정보, 병기본 등급, 상.벌점 등 개인의 행정적 정보를 함꼐 표시한다. 이후에 SNS에 공유할 수 있는 기능을 추가하여 모범적인 군생활을 SNS에 공유할 수 있도록 만들고, 군생활에 뿌듯함을 느끼며 군장병 서로에게 동기부여가 될 수 있도록 한다.
 >>   - **관리자용**(우측) 종합된 병사들의 출타 정보를 보여준다. 복귀 예정시간별로 병사들의 정보를 확인 할 수 있어서 각 시간대별 몇명이 복귀할지 미리 확인할 수 있다. 병사들의 출타 예정사항을 주별, 월별로 미리 확인할수 있다. 
 >
->  ![image4](https://gitlab.com/areng/sms-with-comty/blob/master/image/getout.PNG)
->  ![image5](https://gitlab.com/areng/sms-with-comty/blob/master/image/getout1.PNG)
+>  ![image4](image/getout.PNG)
+>  ![image5](image/getout1.PNG)
 >
 
 > - 커뮤니티 게시판
 >>   - 원하는 분야를 선택해서 해당 영역의 게시물 확인 및 작성을 할 수 있고, 관심있는 게시물에는 댓글을 달 수 있다. 동아리 활동/모집, 취미활동 공유에도 활용될 수 있다.
 > 
->  ![image8](https://gitlab.com/areng/sms-with-comty/blob/master/image/comty.PNG)
->  ![image9](https://gitlab.com/areng/sms-with-comty/blob/master/image/read.PNG)
->  ![image10](https://gitlab.com/areng/sms-with-comty/blob/master/image/write.PNG)
+>  ![image8](image/comty.PNG)
+>  ![image9](image/read.PNG)
+>  ![image10](image/write.PNG)
 >
 
 > - 사용자 정보 확인 / 변경
 >>   - 사용자 계정 정보, 버젼 등을 확인할 수 있으며 필요한 경우 수정할 수 있다.
 >
->  ![image6](https://gitlab.com/areng/sms-with-comty/blob/master/image/info.PNG)
->  ![image7](https://gitlab.com/areng/sms-with-comty/blob/master/image/info_change.PNG)
+>  ![image6](image/info.PNG)
+>  ![image7](image/info_change.PNG)
 
 
 ## **인트라넷 화면 소개**
 ___
 > - 인트라넷 사용자와 인터넷 사용자를 연결하기 위한 연동 페이지
 > 
->  ![image11](https://gitlab.com/areng/sms-with-comty/blob/master/image/support_system.PNG)
->  ![image12](https://gitlab.com/areng/sms-with-comty/blob/master/image/support_system1.PNG)
->  ![image13](https://gitlab.com/areng/sms-with-comty/blob/master/image/support_system_add.PNG)
+>  ![image11](image/support_system.PNG)
+>  ![image12](image/support_system1.PNG)
+>  ![image13](image/support_system_add.PNG)
 
 
 ## **기능 설명**
